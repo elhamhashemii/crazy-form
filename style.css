@@ -76,3 +76,8 @@ input:hover{
     color: #aaff9f;
     visibility: hidden;
 }
+
+
+@media only screen and (max-width: 900px){
+    .container div{ width: 90%;}
+}
